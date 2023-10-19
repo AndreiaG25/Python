@@ -5,4 +5,4 @@
 
 ## Prática com GitHub
 
-- criação e edição com GitHub Desktop
+- criação e edição com GitHub Desktop...
